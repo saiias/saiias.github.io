@@ -40,7 +40,7 @@ Then, I write ones in another language(C++, Go,etc), which is more faster than p
 
 
 
-### Publications(demestic papa and slide)
+### Publications(demestic papers and slides)
 
 - http://research-lab.yahoo.co.jp/ir/20150302_yukisait.html
 - http://www.slideshare.net/techblogyahoo/yahooyjdsw1
