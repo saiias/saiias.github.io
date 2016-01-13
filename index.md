@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 Software Development Engineer at Yahoo!Japan.
@@ -24,4 +23,4 @@ I'm iterestied in machine learning, infomation retrieval, learnint to rank.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[saiias0708@gmail.com](mailto:saiias0708@gmail.com)
