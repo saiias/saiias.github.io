@@ -7,7 +7,6 @@ permalink: /about/
 Software Development Engineer at Yahoo!Japan.
 I'm iterestied in machine learning, infomation retrieval, learnint to rank.
 
-
 ### Work Experience
 2013.4 - present Yahoo Japan Corporation
 
@@ -24,4 +23,4 @@ I'm iterestied in machine learning, infomation retrieval, learnint to rank.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[saiias0708@gmail.com](mailto:saiias0708@gmail.com)
